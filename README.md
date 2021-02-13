@@ -3,10 +3,8 @@ Building Web Scrapper with Python and Beautiful Soup Library
 ## Resources
 <dl>
   <dt>
-   [Data Science Dojo](https://www.youtube.com/watch?v=XQgXKtPSzUI)
-  </dt>
-  <dt>
-  [Hitesh Chaudhary](https://www.youtube.com/watch?v=0_VZ7NpVw1Y)
+     <dd>[Data Science Dojo](https://www.youtube.com/watch?v=XQgXKtPSzUI)</dd>
+     <dd>[Hitesh Chaudhary](https://www.youtube.com/watch?v=0_VZ7NpVw1Y)</dd>
   </dt>
  </dl>
 ### Learning
